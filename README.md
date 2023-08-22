@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently looking for **new opportunities**
 
-- 🌱 I’m currently learning **rust, svelte, solidjs**
-
 - 👯 My last project was [spect](https://spect.network)
 
-- 👨‍💻 All of my projects are available at [https://www.avp1598.dev/](https://www.avp1598.dev/)
+- 👨‍💻 All of my projects are available at [avp1598.dev](https://www.avp1598.dev/)
+
+- 🌱 I’m currently learning **rust, svelte, solidjs**
 
 - 💬 Ask me about **react, next.js, node**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1txmIpj5ld58Rb4xz1GzlZrtmohAm2alp/view?usp=sharing](https://drive.google.com/file/d/1txmIpj5ld58Rb4xz1GzlZrtmohAm2alp/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1txmIpj5ld58Rb4xz1GzlZrtmohAm2alp/view?usp=sharing)
 
 - ⚡ Fun fact **I make music on the side**
 
