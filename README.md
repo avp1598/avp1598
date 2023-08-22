@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **rust, svelte, solidjs**
 
-- 👯 My last project was [spect](spect.network)
+- 👯 My last project was [spect](https://spect.network)
 
 - 👨‍💻 All of my projects are available at [https://www.avp1598.dev/](https://www.avp1598.dev/)
 
