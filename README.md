@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [avp1598.dev](https://www.avp1598.dev/)
 
-- 🌱 I’m currently learning **rust, svelte, solidjs**
+- 🌱 I’m currently learning **golang, svelte, solidjs**
 
-- 💬 Ask me about **react, next.js, node**
+- 💬 Ask me about **react, next.js, node, golang**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
