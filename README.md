@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **golang, astrojs, aws**
 
-- 💬 Ask me about **react, next.js 13, typescript, golang**
+- 💬 Ask me about **react, next.js 13, typescript, golang, backend**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
