@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **golang, astrojs, aws**
 
-- 💬 Ask me about **react, next.js 13, typescript, golang, backend**
+- 💬 Ask me about **react, next.js 13, typescript, golang**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1txmIpj5ld58Rb4xz1GzlZrtmohAm2alp/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://s3.ap-south-1.amazonaws.com/weekday-resume-attachments/rjvxom4e)
 
 - ⚡ Fun fact **I make music on the side**
 
