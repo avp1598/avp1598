@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [avp1598.dev](https://www.avp1598.dev/)
 
-- 🌱 I’m currently learning **golang, astrojs, bun, aws**
+- 🌱 I’m currently learning **golang, astrojs, bun, aws, elastiSearch**
 
 - 💬 Ask me about **react, next.js 13, typescript, golang**
 
