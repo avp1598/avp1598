@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avp1598&label=Profile%20views&color=0e75b6&style=flat" alt="avp1598" /> </p>
 
-- 🔭 I’m currently looking for **new opportunities**
-
 - 👯 My last project was [spect](https://spect.network)
 
 - 👨‍💻 All of my projects are available at [avp1598.dev](https://www.avp1598.dev/)
