@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Veer Parmar</h1>
 <h3 align="center">Full stack Software Engineer</h3>
-<h4 align="center>Happy new year <3</h4>
+<h4 align="center">Happy new year</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avp1598&label=Profile%20views&color=0e75b6&style=flat" alt="avp1598" /> </p>
 
