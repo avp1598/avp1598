@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [avp1598.dev](https://www.avp1598.dev/)
 
-- 🌱 I’m currently learning **golang, astrojs, bun, aws, elastiSearch**
+- 🌱 I’m currently learning **golang, rust, cryptography**
 
-- 💬 Ask me about **react, next.js 13, typescript, golang**
+- 💬 Ask me about **react, next.js 13, typescript, golang, rust**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
