@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **golang, rust, cryptography**
 
-- 💬 Ask me about **react, next.js 13, typescript, golang, rust**
+- 💬 Ask me about **react, next.js, typescript, golang, rust**
 
 - 📫 How to reach me **nakulparmar15@gmail.com**
 
