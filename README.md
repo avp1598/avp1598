@@ -5,7 +5,7 @@
 
 - 👯 My previous project: [spect](https://spect.network)
 
-- 👨‍💻 Portfolio [avp1598.dev](https://www.avp1598.dev/)
+- 👨‍💻 Portfolio: [avp1598.dev](https://www.avp1598.dev/)
 
 - 🌱 I’m currently learning **golang, rust, cryptography**
 
