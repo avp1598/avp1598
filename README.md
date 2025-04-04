@@ -24,5 +24,4 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avp1598&show_icons=true&theme=neon&border_radius=24)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avp1598&theme=neon&border_radius=24)](https://git.io/streak-stats)
 
