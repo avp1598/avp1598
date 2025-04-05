@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=avp1598&label=Profile%20views&color=0e75b6&style=flat" alt="avp1598" /></p>
 
-- 👯 My current project_> [ayaos](https://ayaos.ai)
+- 👯 My current project: ai agent SDK [ayaos](https://ayaos.ai)
 
 - 👨‍💻 Portfolio: [avp1598.dev](https://www.avp1598.dev/)
 
